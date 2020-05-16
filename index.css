@@ -15,7 +15,7 @@ html {
 }
 body {
     display:block;
-    background-image:url(/images/dogwood_horizontal.png);
+    background-image:url("https://samanthashin.github.io/images/dogwood_horizontal.png");
     background-position:center;
     background-repeat: no-repeat;
     background-attachment: fixed;
