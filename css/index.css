@@ -16,6 +16,7 @@ html {
 body {
     display:block;
     background-image:url(./images/dogwood_horizontal.jpg);
+    background-color:pink;
     background-position:center;
     background-repeat: no-repeat;
     background-attachment: fixed;
