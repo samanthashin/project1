@@ -181,7 +181,7 @@ img {
 .headerbox {
   height: 100vh;
   position: relative;
-  background-image: url(/images/george_floyd.png);
+  background-image: url(./images/george_floyd.png);
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -236,7 +236,7 @@ img {
 .second-image {
   position: relative;
   height: 600px;
-  background-image: url(/images/protest.jpeg);
+  background-image: url(./images/protest.jpeg);
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
